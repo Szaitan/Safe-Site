@@ -2,7 +2,7 @@ SafeSite
 ------------------------------------------------------------------------------------------------------------
 This is SafeSite! - Web application build on Django framework which allows you in easy way to report, store (MySQL) analyze and generate health and safety reports (Matplotlib) provide by your workers and your subcontractors. 
 
-![Index Page GIF](webapp/static/webapp/intro_page/gif/SafeSite-IndexPage-gif.gif)
+![Index Page GIF](Gifs/SafeSite-IndexPage-gif.gif)
 
 Short Background
 ------------------------------------------------------------------------------------------------------------
