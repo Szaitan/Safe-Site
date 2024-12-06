@@ -4,7 +4,7 @@ This is SafeSite! - Web application build on Django framework which allows you i
 Due to signed understanding with my comapny, Safe Site is in turn off mode, for presentation purpose only. 
 
 <div align="center">
-  <img src="Gifs/SafeSite-IndexPage-gif.gif" alt="Index Page GIF">
+  <img src="Gifs/SafeSite-IndexPage.gif" alt="Index Page GIF">
 </div>
 
 Short Background
