@@ -21,11 +21,6 @@ What I use in SafeSite
 Features of SafeSite
 ------------------------------------------------------------------------------------------------------------
 ### Incident Reporting
-- **Workplace Observations:** Users can record day-to-day safety observations, identifying potential hazards before they lead to incidents.
-- **Incident Logging:** For accidents, near-misses, or safety violations, detailed reports can be submitted with relevant information like date, time, location, and involved personnel.
-- **Categorization:** Incidents are categorized based on severity, type (e.g., accident, near-miss, safety violation), and risk factor to allow for easier analysis and follow-up.
-- **Tracking and Resolution:** The status of each report is tracked, ensuring that incidents are addressed and resolved efficiently, and users can follow up on the actions taken.
-
 | **Feature**            | **Description**                                                                                                     |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Workplace Observations  | Users can record day-to-day safety observations, identifying potential hazards before they lead to incidents.       |
@@ -33,6 +28,16 @@ Features of SafeSite
 | Categorization          | Incidents are categorized based on severity, type (e.g., accident, near-miss, safety violation), and risk factor to allow for easier analysis and follow-up. |
 | Tracking and Resolution | The status of each report is tracked, ensuring that incidents are addressed and resolved efficiently, and users can follow up on the actions taken. |
 
+![Index Page GIF](Gifs/SafeSite-IndexPage-gif.gif)
+
+### Visual Display:
+| **Feature**            | **Description**                                                                                                     |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Intuitive Graphs and Charts  |Users can view safety data in visually engaging formats, such as bar charts, line graphs, pie charts, and heatmaps, making complex data easier to understand at a glance.|
+| Real-Time Data Visualization |Display up-to-date data on incidents, audits, and safety assessments, enabling users to monitor safety performance in real time.|
+| Filtering Options            |Users can filter data visualizations by date, location, type of incident, or severity level, allowing for a more focused analysis of specific safety concerns.|
+| Exportable Visuals           |All graphs and charts can be exported for use in presentations or reports, helping to communicate safety trends and insights to management or external auditors.|
+| Cross-Platform Accessibility |Visual displays are optimized for both desktop and mobile platforms, ensuring ease of access and clarity across different devices.|
 
 ![Index Page GIF](Gifs/SafeSite-IndexPage-gif.gif)
 
