@@ -1,7 +1,7 @@
 SafeSite
 ------------------------------------------------------------------------------------------------------------
 This is SafeSite! - Web application build on Django framework which allows you in easy way to report, store (PostgreSQL) analyze and generate health and safety reports (Matplotlib) provide by your workers and your subcontractors. 
-* Due to signed understanding with my comapny, Safe Site is turn off mode. 
+Due to signed understanding with my comapny, Safe Site is turn off mode. 
 
 ![Index Page GIF](Gifs/SafeSite-IndexPage-gif.gif)
 
@@ -20,11 +20,19 @@ What I use in SafeSite
 
 Features of SafeSite
 ------------------------------------------------------------------------------------------------------------
+| Incident Reporting |
+|-----:|-----------|
+|Workplace Observations | Users can record day-to-day safety observations, identifying potential hazards before they lead to incidents.|
+|Incident Logging       | For accidents, near-misses, or safety violations, detailed reports can be submitted with relevant information like date, time, location, and involved personnel.    |
+|Categorization         | Incidents are categorized based on severity, type (e.g., accident, near-miss, safety violation), and risk factor to allow for easier analysis and follow-up.       |
+|Tracking and Resolution| The status of each report is tracked, ensuring that incidents are addressed and resolved efficiently, and users can follow up on the actions taken.       |
+
 Incident Reporting
 * Workplace Observations: Users can record day-to-day safety observations, identifying potential hazards before they lead to incidents.
 * Incident Logging: For accidents, near-misses, or safety violations, detailed reports can be submitted with relevant information like date, time, location, and involved personnel.
 * Categorization: Incidents are categorized based on severity, type (e.g., accident, near-miss, safety violation), and risk factor to allow for easier analysis and follow-up.
 * Tracking and Resolution: The status of each report is tracked, ensuring that incidents are addressed and resolved efficiently, and users can follow up on the actions taken.
+
 ![Index Page GIF](Gifs/SafeSite-IndexPage-gif.gif)
 
 License
