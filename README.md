@@ -21,7 +21,7 @@ What I use in SafeSite
 Features of SafeSite
 ------------------------------------------------------------------------------------------------------------
 | Incident Reporting |
-|-----:|-----------|
+|----------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Workplace Observations | Users can record day-to-day safety observations, identifying potential hazards before they lead to incidents.|
 |Incident Logging       | For accidents, near-misses, or safety violations, detailed reports can be submitted with relevant information like date, time, location, and involved personnel.    |
 |Categorization         | Incidents are categorized based on severity, type (e.g., accident, near-miss, safety violation), and risk factor to allow for easier analysis and follow-up.       |
