@@ -3,7 +3,9 @@ SafeSite
 This is SafeSite! - Web application build on Django framework which allows you in easy way to report, store (PostgreSQL) analyze and generate health and safety reports (Matplotlib) provide by your workers and your subcontractors. 
 Due to signed understanding with my comapny, Safe Site is turn off mode. 
 
-![Index Page GIF](Gifs/SafeSite-IndexPage-gif.gif)
+div align="center">
+  <img src="Gifs/SafeSite-IndexPage-gif.gif" alt="Index Page GIF">
+</div>
 
 Short Background
 ------------------------------------------------------------------------------------------------------------
